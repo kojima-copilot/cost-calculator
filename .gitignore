@@ -3,4 +3,6 @@
 ./DS_Store
 
 /node_mudules 
-node_mudules
+node_modules
+
+.env 
